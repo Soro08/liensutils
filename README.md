@@ -25,3 +25,8 @@ https://medium.com/python-pandemonium/better-python-dependency-and-package-manag
 # Intall Redis Mac OS
 
 https://1upnote.me/post/2018/06/install-config-redis-on-mac-homebrew/
+
+
+# Chat python 3 redis postgres
+
+https://revs.runtime-revolution.com/a-simple-real-time-chat-with-django-channels-and-react-b73edc3a79f2
