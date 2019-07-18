@@ -19,3 +19,9 @@ pip freeze > requirements.txt
 
 
 https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1
+
+
+
+# Intall Redis Mac OS
+
+https://1upnote.me/post/2018/06/install-config-redis-on-mac-homebrew/
