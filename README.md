@@ -35,3 +35,8 @@ https://revs.runtime-revolution.com/a-simple-real-time-chat-with-django-channels
 
 # Lien console code pen
 https://codepen.io/nullobject/pen/cngzI
+
+
+# Lien extended user models Django use  option 2
+
+https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
