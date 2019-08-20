@@ -55,3 +55,8 @@ pip install django-rest-swagger
 
 https://www.django-rest-framework.org/api-guide/serializers/#dealing-with-nested-objects
 
+
+## CREATE DB POSTGRES
+
+https://www.guru99.com/postgresql-create-database.html
+
