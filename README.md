@@ -52,3 +52,6 @@ https://github.com/alesdotio/django-admin-shortcuts
 
 
 pip install django-rest-swagger
+
+https://www.django-rest-framework.org/api-guide/serializers/#dealing-with-nested-objects
+
