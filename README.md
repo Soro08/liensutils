@@ -70,3 +70,5 @@ https://www.travelpayouts.com/finance/requisites
 
 
 https://colorlib.com/wp/cat/event/
+
+http://www.travelpayouts.com/developers/api
