@@ -87,3 +87,9 @@ https://django-admin-generator.readthedocs.io/en/latest/usage.html#usage
 
 
 https://undraw.co/
+
+## Map
+
+https://business.mapquest.com/pricing-plans/
+
+https://www.bingmapsportal.com/ManageDataSources#/
