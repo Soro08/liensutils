@@ -77,3 +77,9 @@ http://www.travelpayouts.com/developers/api
 ## Django QR code
 
 https://django-qr-code.readthedocs.io/en/latest/pages/README.html
+
+
+## Django generate admin
+
+
+https://django-admin-generator.readthedocs.io/en/latest/usage.html#usage
