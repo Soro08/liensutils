@@ -83,3 +83,7 @@ https://django-qr-code.readthedocs.io/en/latest/pages/README.html
 
 
 https://django-admin-generator.readthedocs.io/en/latest/usage.html#usage
+
+
+
+https://undraw.co/
