@@ -95,3 +95,5 @@ https://developer.mapquest.com/plan_purchase/steps/business_edition/business_edi
 https://business.mapquest.com/pricing-plans/
 
 https://www.bingmapsportal.com/ManageDataSources#/
+
+https://docs.traveltimeplatform.com/overview/getting-keys
