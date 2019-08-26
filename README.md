@@ -88,6 +88,9 @@ https://django-admin-generator.readthedocs.io/en/latest/usage.html#usage
 
 https://undraw.co/
 
+## Date picker
+http://www.daterangepicker.com/
+
 ## Map
 
 https://developer.mapquest.com/plan_purchase/steps/business_edition/business_edition_free/register
