@@ -15,6 +15,8 @@ https://channels.readthedocs.io/en/latest/tutorial/part_2.html
 ```bash
 pip freeze
 pip freeze > requirements.txt
+
+pg_dump -U postgres reveci > reveci.pgsql
 ```
 
 
