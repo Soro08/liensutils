@@ -1,6 +1,11 @@
 # liensutils
 # creer une cerriver linux sur windows 10 et installer kali lunux unbutu et debian
 
+## deploi django
+
+https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-16-04
+
+
 ## redis sur windos 10
 https://redislabs.com/blog/redis-on-windows-10/
 
