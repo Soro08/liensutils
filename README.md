@@ -124,3 +124,8 @@ https://medium.com/crowdbotics/build-your-own-radio-streaming-app-with-howler-js
 
 ## . https://api.youtubeplaylist.cc/playlist?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzQOrahE-0Cs%26list%3DPLi-5xFHLno9qigE6CuCFB31zrinpdE_ZN&nextPageToken=
 
+
+
+https://realpython.com/python-speech-recognition/
+
+
