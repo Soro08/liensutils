@@ -130,5 +130,11 @@ https://realpython.com/python-speech-recognition/
 
 
 
+
+
+##Django transfert data
+
+
+https://www.shubhamdipt.com/blog/django-transfer-data-from-sqlite-to-another-database/
 https://djangopackages.org/grids/g/django-rest-framework/
 
