@@ -144,3 +144,5 @@ https://djangopackages.org/grids/g/django-rest-framework/
 
 https://swup.js.org/getting-started/reloading-javascript
 
+
+https://bosnadev.com/2015/12/15/allow-remote-connections-postgresql-database-server/
