@@ -138,3 +138,9 @@ https://realpython.com/python-speech-recognition/
 https://www.shubhamdipt.com/blog/django-transfer-data-from-sqlite-to-another-database/
 https://djangopackages.org/grids/g/django-rest-framework/
 
+
+
+
+
+https://swup.js.org/getting-started/reloading-javascript
+
