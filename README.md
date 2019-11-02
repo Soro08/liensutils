@@ -153,3 +153,7 @@ https://bosnadev.com/2015/12/15/allow-remote-connections-postgresql-database-ser
 
 https://coderwall.com/p/mvsoyg/django-dumpdata-and-loaddata
 
+
+https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
+
+
