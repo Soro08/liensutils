@@ -157,3 +157,4 @@ https://coderwall.com/p/mvsoyg/django-dumpdata-and-loaddata
 https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
 
 
+https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
